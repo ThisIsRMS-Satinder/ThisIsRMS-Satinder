@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThisIsRMS-Satinder
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: Satinder.Singh@thisisrms.co.uk
 
 <!---
